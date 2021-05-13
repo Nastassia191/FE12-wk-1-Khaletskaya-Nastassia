@@ -1,0 +1,51 @@
+
+.awesome-title{
+  width: 320px;
+  
+  color: black;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 25px;
+} 
+.awesome-line{
+  width: 64px;
+  border-top: 2px solid rgb(235, 128, 7);
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+}
+
+
+.awesome-discription {
+  width: 380px;
+  margin:auto;
+  margin-bottom: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.awesome-roll_iteme{
+  max-width: 350px;
+}
+
+
+ .awesome-img {
+  width: 70px;
+  height: 70px;
+  margin-bottom: 30px;
+  margin-top: 67px;
+  margin-left: 150px;
+  border: 2px solid rgb(235, 128, 7); 
+  border-radius: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  }
+
+.awesome-roll_title{
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

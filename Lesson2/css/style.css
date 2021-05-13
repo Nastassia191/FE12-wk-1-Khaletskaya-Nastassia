@@ -1,0 +1,19 @@
+@import url("../css/awesome.css");
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+
+.awesome-section{
+  width: 100%;
+  background: white;
+}
+.awesome-conteiner{
+  max-width: 1170px;
+    margin: auto;
+  padding: 100px 140px;
+}
