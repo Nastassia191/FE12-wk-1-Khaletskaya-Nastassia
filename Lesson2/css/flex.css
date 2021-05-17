@@ -1,0 +1,37 @@
+
+
+.awesome-discription, .pricing-discription{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.awesome-row{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.awesome-img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.awesome-row_title{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.awesom-row-text{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pricing-row{
+  display: flex;
+  justify-content: space-around;
+}
