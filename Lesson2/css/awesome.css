@@ -2,23 +2,10 @@
   background: white;
   padding: 100px 140px;
 }
-.awesome-title{
-  color: black;
-  text-align: center;
-  margin-bottom: 25px;
-  text-transform: uppercase;
-  font-family: 'Raleway', sans-serif;
-  font-size: 36px;
-  font-weight: 400;
-  font-style: normal;
-} 
-.awesome-line{
-  width: 64px;
-  border-top: 1px solid #D98943;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 30px;
-}
+
+
+
+
 .awesome-discription {
   margin-bottom: 67px;
   font-family: 'Open Sans', sans-serif;

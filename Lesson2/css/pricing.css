@@ -3,24 +3,6 @@
   padding: 80px 110px;
 }
 
-.pricing-title{
-  text-transform: uppercase;
-  text-align: center;
-  font-family: 'Raleway', sans-serif;
-  font-size: 36px;
-  font-weight: 400;
-  font-style: normal;
-  margin-bottom: 34px;
-}
-
-.pricing-line{
-  width: 64px;
-  border-top: 1px solid #E72424;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 34px;
-}
-
 .pricing-discription{
   margin-bottom: 63px;
   font-family: 'Open Sans', sans-serif;
@@ -68,6 +50,12 @@ width: 340px;
   padding: 17px 127px 14px 135px;
   }
 
+  .pricing-row_item3:hover{
+  transition: 0.2s;
+  cursor: pointer;
+  background-color: orange;
+  }
+
   .pricing-row-item3_text{
     color: #FFFFFF;
     font-size: 12px;
@@ -96,9 +84,4 @@ width: 340px;
   background:  #333333;
   margin-bottom: 2px;
   padding: 16px 132px 7px 132px;
-}
-.pricing-row-item3_opt3{
-  background: #D98943;
-  margin-bottom: 4px;
-  padding: 17px 127px 14px 135px;
 }

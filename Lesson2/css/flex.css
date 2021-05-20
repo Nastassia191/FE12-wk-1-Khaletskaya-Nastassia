@@ -1,6 +1,6 @@
 
 
-.awesome-discription, .pricing-discription{
+.awesome-discription, .pricing-discription, .customers-discription, .axure-discription{
   display: flex;
   align-items: center;
   justify-content: center;
@@ -13,7 +13,7 @@
   flex-wrap: wrap;
 }
 
-.awesome-img {
+.awesome-img, .customers_img {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -33,5 +33,25 @@
 
 .pricing-row{
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  }
+  
+  .customers-row{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+
+.customers-row-item_2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.axure_button{
+  display: flex;
+  align-items: center;
 }
